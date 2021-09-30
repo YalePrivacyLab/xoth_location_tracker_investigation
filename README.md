@@ -1,7 +1,6 @@
-# ExpressVPN Digital Security Lab
-## Investigation Xoth: Location Trackers
+# Investigation Xoth: Location Trackers
 
-This repository contains the results of a January 2021 investigation into Android apps that contain location tracker Software Development Kits (SDKs). We call this effort "Investigation Xoth." This research was conducted by Sean O'Brien of the [ExpressVPN Digital Security Lab](https://expressvpn.com/digital-security-lab) with the aid of Esther Onfroy of the [Defensive Lab Agency](https://defensive-lab.agency). Findings are described on [our website](https://expressvpn.com/digital-security-lab/investigation-xoth).
+This repository contains the results of a January 2021 investigation into Android apps that contain location tracker Software Development Kits (SDKs). We call this effort "Investigation Xoth." This research was conducted by Sean O'Brien with the aid of Esther Onfroy of the [Defensive Lab Agency](https://defensive-lab.agency) and the support of the ExpressVPN Digital Security Lab. Findings are described on [the DSL website](https://expressvpn.com/digital-security-lab/investigation-xoth).
 
 We encourage users to independently validate the investigation results. This information is released for consumer awareness only and should be interpreted by security professionals.
 
@@ -22,10 +21,10 @@ We encourage users to independently validate the investigation results. This inf
 * Predicio: [JSON](predicio.json) | [CSV](predicio.csv) - List of all apps containing [Predicio](http://www.predic.io)
 * Quadrant: [JSON](quadrant.json) | [CSV](quadrant.csv) - List of all apps containing [Quadrant](https://www.quadrant.io)
 * Sense360: [JSON](sense360.json) | [CSV](sense360.csv) - List of all apps containing [Sense360](https://sense360.com)
-* SignalFrame (Wireless Registry)**: [JSON](signalframe-wirelessregistry.json) | [CSV](signalframe-wirelessregistry.csv) - List of all apps containing [SignalFrame](https://signalframe.com)
+* SignalFrame (Wireless Registry): [JSON](signalframe-wirelessregistry.json) | [CSV](signalframe-wirelessregistry.csv) - List of all apps containing [SignalFrame](https://signalframe.com)
 * Sygic: [JSON](sygic.json) | [CSV](sygic.csv) - List of all apps containing [Sygic](https://www.sygic.com)
 * X-Mode: [JSON](xmode.json) | [CSV](xmode.csv) - List of all apps containing [X-Mode](https://xmode.io)
 
 ## Contact
 
-If you have any questions or suggestions regarding these findings, email us at digital-security-lab@expressvpn.com.
+If you have any questions or suggestions regarding these findings, email sean.obrien@yale.edu.
